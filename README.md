@@ -1,2 +1,2 @@
 # friends
-Open Source MMO Project
+Open Source MMOG( Massivley Multiplayer Online Game )
